@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Email Automator",
+  "description": "AI-powered email personalization and automation engine with Google Maps location lead discovery, contacts.xlsx parsing, checkpoint logging, and spam-resilient delivery.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

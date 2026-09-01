@@ -1,0 +1,6 @@
+timestamp,email,name,status,subject,error_message
+2026-08-27 08:09:31,sarah.jenkins@techcorp-demo.com,Sarah Jenkins,DRY_RUN,Quick intro regarding VP of Engineering at CloudScale,
+2026-08-27 08:09:34,m.vance@novabio-health.io,Marcus Vance,DRY_RUN,Quick intro regarding Head of Product at NovaBio,
+2026-08-27 08:09:37,elena@vertex-fintech.co,Elena Rostova,DRY_RUN,Quick intro regarding Co-Founder & CTO,
+2026-08-27 08:09:38,david.chen@acme-logistics.net,David Chen,DRY_RUN,Quick intro regarding Operations Director at Acme Logistics,
+2026-08-27 08:09:42,amira@solardrive-energy.com,Amira Patel,DRY_RUN,Quick intro regarding Sustainability Lead at SolarDrive,
